@@ -38,10 +38,7 @@
 
 To view a live example, **[click here](https://jaganraj-coder.github.io/Portfolio/)**
 
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
 
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
 
 ## Contributing 💡
 #### Step 1
